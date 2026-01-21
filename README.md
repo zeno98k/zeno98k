@@ -1,7 +1,6 @@
-                                                   hi. im   |
-                                                            V
-                                            888  888  .d88b.  88888b.   .d88b.          
-                                            `Y8bd8P' d8P  Y8b 888 "88b d88""88b         
+
+#                                            888  888  .d88b.  88888b.   .d88b.          
+ #                                           `Y8bd8P' d8P  Y8b 888 "88b d88""88b         
   im a dev based in italy, i mostly           X88K   88888888 888  888 888  888         
   code python and js                        .d8""8b. Y8b.     888  888 Y88..88P         
   a lot of other languages.                 888  888  "Y8888  888  888  "Y88P"          
